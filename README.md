@@ -1,11 +1,4 @@
-Bhai theek hai 😎 — neeche ek **README.md** file ka sample de raha hoon, specially bana hua for your smart contract deployed at
-`0x72b777e6651cB95b06571728c049311fe0130866`.
 
-Yeh markdown format mein ready hai GitHub ke liye — stylish, simple aur samajhdar 👇
-
----
-
-````markdown
 # 🧠 Collaborative Research Fund Pool
 
 A decentralized **Collaborative Research Funding Pool** built on Solidity.  
